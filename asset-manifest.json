@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ebook/static/css/main.bf271f9f.css",
+    "main.js": "/Ebook/static/js/main.02551c27.js",
+    "static/js/453.111e3ea4.chunk.js": "/Ebook/static/js/453.111e3ea4.chunk.js",
+    "static/media/conatctbanner.png": "/Ebook/static/media/conatctbanner.0260d2756e65a9ca613c.png",
+    "index.html": "/Ebook/index.html",
+    "main.bf271f9f.css.map": "/Ebook/static/css/main.bf271f9f.css.map",
+    "main.02551c27.js.map": "/Ebook/static/js/main.02551c27.js.map",
+    "453.111e3ea4.chunk.js.map": "/Ebook/static/js/453.111e3ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf271f9f.css",
+    "static/js/main.02551c27.js"
+  ]
+}
