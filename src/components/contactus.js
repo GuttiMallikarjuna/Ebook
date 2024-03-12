@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer'
-import Contactbanner from '../images/conatctbanner.png'
+import Contactbanner from '../images/contactus-img-banner.jpg'
 import AnimatedModal from './ebookmodal';
 
 const Contactus = () => {
@@ -32,7 +32,7 @@ const Contactus = () => {
                 <img src={Contactbanner} alt='banner image' className='contactbanner'/>
                 <div className='container text-center pt-md-5 pb-md-5 p-3 container-contact'>
                 <p className='mb-5'>Thank you for your interest in Infomerica services. Please provide the following information about your business needs to help us serve you better. This information will enable us to route your request to the appropriate person. You should receive a response within 8 hours.</p>
-                <div className='bg-primary text-white rounded p-md-5 p-3'>
+                <div className='contactform text-white rounded p-md-5 p-3'>
                     <h2>Contact Us</h2>
                     <form>
                     <div className='d-md-flex m-1'>

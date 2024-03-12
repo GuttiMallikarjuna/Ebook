@@ -68,6 +68,11 @@ footer {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+.contactform{
+  background: url("./images/contact-form-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 /* Ebook Modal */
 @keyframes zoomIn {
   from {
