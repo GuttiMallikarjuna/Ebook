@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ebook/static/css/main.4e971295.css",
+    "main.js": "/Ebook/static/js/main.11983e7a.js",
+    "static/js/453.111e3ea4.chunk.js": "/Ebook/static/js/453.111e3ea4.chunk.js",
+    "static/media/contactus-img-banner.jpg": "/Ebook/static/media/contactus-img-banner.4d58220bce12dae09785.jpg",
+    "static/media/contact-form-bg.jpg": "/Ebook/static/media/contact-form-bg.6f1876108418a33b6ed7.jpg",
+    "index.html": "/Ebook/index.html",
+    "main.4e971295.css.map": "/Ebook/static/css/main.4e971295.css.map",
+    "main.11983e7a.js.map": "/Ebook/static/js/main.11983e7a.js.map",
+    "453.111e3ea4.chunk.js.map": "/Ebook/static/js/453.111e3ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e971295.css",
+    "static/js/main.11983e7a.js"
+  ]
+}

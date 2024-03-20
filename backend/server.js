@@ -127,7 +127,7 @@ app.post("/ebook", (req, res) => {
       console.log(err);
       return res.json("Error");
     }
-    console.log("data added successfully");
+    console.log("data added successfully!");
     return res.json(data);
   });
 });
